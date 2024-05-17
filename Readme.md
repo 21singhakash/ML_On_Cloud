@@ -1,0 +1,1 @@
+## This project is about deploying a ML model over cloudusing Flask, Docker, and Azure cloud services.
